@@ -24,9 +24,14 @@ The main objective of Maven Toys is to expand its business by opening new stores
 To achieve its expansion goals, Maven Toys needs to address the following key questions:
 
 •	What is the Year-over-Year (YoY) growth in revenue, profit, and units sold? How did Maven Toys perform in the previous year?
+
 •	Maven Toys has set a target of $8.5 million in revenue for each year — 2022 and 2023. How much progress has been made toward this goal by evaluating Year-to-Date (YTD) and Previous-Year-to-Date (PYTD) growth?
+
 •	Which product categories drive the biggest profits? Is this consistent across store locations?
+
 •	Which store locations have the highest potential for profitability?
+
 •	Can seasonal trends or patterns in sales data be identified that might affect the timing and location of new store openings?
+
 •	Which stores are top performers in terms of revenue and profit?
 
