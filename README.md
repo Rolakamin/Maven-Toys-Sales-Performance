@@ -79,4 +79,29 @@ The **DAX formulas** used to create the calendar table and its columns are provi
 ### **Dataset Download Link**
 To access the dataset, click [**here**](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/tree/main/Dataset).
 
+## Data Cleaning and Transformation
 
+These steps were taken to clean and transform the dataset, ensuring its accuracy, consistency, and readiness for analysis:
+
+1. **Changing Data Types**
+   - The IDs in each table were converted from a whole number to text data type to prevent them from being misinterpreted as fields for aggregation. As identifiers, these fields are not intended for calculations.
+
+2. **Trimming Text Fields**
+   - Text columns across the dataset were trimmed to remove unnecessary spaces, ensuring clean and consistent values.
+
+3. **Standardizing Store Names**
+   - In the Stores table, the store names were standardized to create easy-to-read names. Originally, each row included "Maven Toys" at the beginning of the store name.
+   - The Replace Value function was used to replace "Maven Toys" with an empty string, resulting in explicit and concise store names for all rows.
+
+4. **Creating Calculated Columns in the Sales Table**
+   - The Sales table, which serves as the fact table (containing all occurrences of transactions), required additional calculated columns: Profit, Total Cost, and Total Price.
+   - These calculations were made by merging data from the Products table into the Sales table using the Merge Queries function to bring in the relevant product cost and price.
+
+5. **Profit and Cost Calculations**
+   - Calculations for the new columns were as follows:
+     - **Total Cost**: Units Sold × Product Cost
+     - **Total Price**: Units Sold × Product Price
+     - **Profit**: Total Price − Total Cost
+
+Below is a screenshot showing the formulae used to calculate these columns:
+![Total Cost Formula](https://github.com/your-username/your-repository/blob/main/total_cost.png)
