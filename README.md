@@ -125,3 +125,5 @@ These steps were taken to clean and transform the dataset, ensuring its accuracy
 **Note:**
 In the provided screenshots, the column is labeled as "Units." For clarity and consistency, this column has been renamed to "Units Sold" in the final version of the dataset and dashboard. This adjustment was made to ensure that the column name more accurately reflects its content, representing the number of units sold per transaction.
 
+## Data Modelling
+
