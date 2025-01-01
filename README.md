@@ -109,7 +109,7 @@ Below are the screenshots showing the formulae used to calculate these columns:
 ![Profit Calculation](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/Profit.png)
 
 ### Total Cost Calculation
-![Total Cost Calculation](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/TotalCost.png)
+![Total Cost Calculation](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/Total_Cost.png)
 
 ### Total Price Calculation
 ![Total Price Calculation](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/TotalPrice.png)
