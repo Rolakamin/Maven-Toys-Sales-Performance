@@ -102,6 +102,15 @@ These steps were taken to clean and transform the dataset, ensuring its accuracy
   - **Total Cost**: Units Sold × Product Cost
   - **Total Price**: Units Sold × Product Price
   - **Profit**: Total Price − Total Cost
-
-Below is a screenshot showing the formulae used to calculate these columns:
+ 
+Below are the screenshots showing the formulae used to calculate these columns:
+    
+### Profit Calculation
 ![Profit Calculation](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/Profit.png)
+
+### Total Cost Calculation
+![Total Cost Calculation](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/TotalCost.png)
+
+### Total Price Calculation
+![Total Price Calculation](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/TotalPrice.png)
+
