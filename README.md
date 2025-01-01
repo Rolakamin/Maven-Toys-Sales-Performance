@@ -104,4 +104,4 @@ These steps were taken to clean and transform the dataset, ensuring its accuracy
   - **Profit**: Total Price − Total Cost
 
 Below is a screenshot showing the formulae used to calculate these columns:
-![Total Cost Formula](https://github.com/your-username/your-repository/blob/main/total_cost.png)
+![Profit Calculation](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/Profit.png)
