@@ -127,3 +127,13 @@ In the provided screenshots, the column is labeled as "Units." For clarity and c
 
 ## Data Modelling
 
+Modeling in Data Analysis refers to the process of organizing and structuring data to establish meaningful relationships between different tables in a dataset or between different datasets, as the case may be.
+
+A Fact Table is the central table in a star schema or snowflake schema that stores quantitative data (facts) for analysis. It contains measurable, numerical values, often aggregated, and represents transactional or event data in the dataset. Fact tables are linked to dimension tables through foreign keys.
+
+A Dimension Table provides descriptive, textual, or categorical information about the entities in the fact table. These tables enrich the data by offering context and attributes to analyze and categorize facts.
+
+For this Maven Toys Sales Performance analysis, the Sales Table serves as the Fact Table, surrounded by other tables (dimension tables: Stores, Inventory, Products, and Calendar tables), forming a star schema on a 1-to-many relationship.
+
+The data model is shown below:
+(Attach or embed the data model screenshot here)
