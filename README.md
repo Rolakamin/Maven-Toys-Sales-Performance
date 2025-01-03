@@ -136,4 +136,4 @@ A Dimension Table provides descriptive, textual, or categorical information abou
 For this Maven Toys Sales Performance analysis, the Sales Table serves as the Fact Table, surrounded by other tables (dimension tables: Stores, Inventory, Products, and Calendar tables), forming a star schema on a 1-to-many relationship.
 
 The data model is shown below:
-(Attach or embed the data model screenshot here)
+![Data Model](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/DataModel.png)
