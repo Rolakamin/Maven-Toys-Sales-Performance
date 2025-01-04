@@ -195,4 +195,7 @@ Supporting measures provide context for the KPIs, helping to understand them bet
 
 The Power BI dashboard was designed to provide a detailed view of Maven Toys' sales performance. It highlights the KPIs, trends, and other visuals, offering insights into the business problems and helping to guide decision-making.
 
+![Power BI Dashboard](path_to_your_dashboard_screenshot.png)  
+
+
 [Explore the Dashboard here](#)
