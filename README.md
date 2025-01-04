@@ -142,7 +142,7 @@ The data model is shown below:
 ## Data Analysis and Visualization
 The approach and techniques used to analyze the dataset and derive meaningful insights are described in this section. The Power BI dashboard developed to visualize the results is also included.
 
-## Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs)
 
 KPIs were developed to track sales performance, profitability, and growth trends. These measures represent key metrics that reflect the overall performance and success of the business.
 
@@ -170,7 +170,7 @@ KPIs were developed to track sales performance, profitability, and growth trends
   `DIVIDE([Prev YTD Revenue], [Revenue Target])`  
   Evaluates progress toward last year’s target for comparison.
 
-## Supporting Measures
+### Supporting Measures
 
 Supporting measures provide context for the KPIs, helping to understand them better. They are also used in the calculation of KPIs.
 
@@ -191,10 +191,8 @@ Supporting measures provide context for the KPIs, helping to understand them bet
 - **Revenue Target:** `8500000`  
   Sets the benchmark for revenue performance.
 
-## Power BI Dashboard
+### Power BI Dashboard
 
-The Power BI dashboard was designed to provide a detailed view of Maven Toys' sales performance. It highlights the KPIs, trends, and supporting measures in an interactive and visually engaging manner.
-
-![Power BI Dashboard](path_to_your_dashboard_screenshot.png)  
+The Power BI dashboard was designed to provide a detailed view of Maven Toys' sales performance. It highlights the KPIs, trends, and other visuals, offering insights into the business problems and helping to guide decision-making.
 
 [Explore the Dashboard here](#)
