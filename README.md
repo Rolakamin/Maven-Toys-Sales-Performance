@@ -1,4 +1,4 @@
-6# Maven Toys Sales Performance Analysis
+# Maven Toys Sales Performance Analysis
 
 ![](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/toys%20shop.png)
 ---
