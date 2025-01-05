@@ -1,4 +1,4 @@
-# Maven Toys Sales Performance Analysis
+6# Maven Toys Sales Performance Analysis
 
 ![](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/toys%20shop.png)
 ---
@@ -143,7 +143,6 @@ The data model is shown below:
 The approach and techniques used to analyze the dataset and derive meaningful insights are described in this section. The Power BI dashboard developed to visualize the results is also included.
 
 ### Key Performance Indicators (KPIs)
-
 KPIs were developed to track sales performance, profitability, and growth trends. These measures represent key metrics that reflect the overall performance and success of the business.
 The following KPIs are displayed on the dashboard card visuals to represent the core metrics of the business's performance:
 
