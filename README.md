@@ -145,42 +145,13 @@ The approach and techniques used to analyze the dataset and derive meaningful in
 ### Key Performance Indicators (KPIs)
 
 KPIs were developed to track sales performance, profitability, and growth trends. These measures represent key metrics that reflect the overall performance and success of the business.
+The following KPIs are displayed on the dashboard card visuals to represent the core metrics of the business's performance:
 
-**Key KPIs include:**
-
-- **Total Profit:** `SUM(Sales[Profit])`  
-  Indicates the overall profitability of sales.
-- **Total Revenue:** `SUM(Sales[Total_Price])`  
-  Reflects the total income generated from sales.
-- **Total Units Sold:** `SUM(Sales[Units Sold])`  
-  Represents the total quantity of products sold.
-- **YoY Growth in Units Sold:**  
-  `DIVIDE([YTD Units Sold] - [Prev YTD Units Sold], [Prev YTD Units Sold])`  
-  Highlights year-over-year growth in product sales.
-- **YoY Profit Growth:**  
-  `DIVIDE([YTD Profit] - [Prev YTD Profit], [Prev YTD Profit])`  
-  Shows the yearly percentage growth in profit.
-- **YoY Revenue Growth:**  
-  `DIVIDE([YTD Revenue] - [Prev YTD Revenue], [Prev YTD Revenue])`  
-  Tracks yearly percentage growth in revenue.
-- **Progress Towards Target (YTD):**  
-  `DIVIDE([YTD Revenue], [Revenue Target])`  
-  Measures how much of the revenue target has been achieved so far.
-- **Progress Towards Target (PYTD):**  
-  `DIVIDE([Prev YTD Revenue], [Revenue Target])`  
-  Evaluates progress toward last year’s target for comparison.
-
-### Supporting Measures
-
-Supporting measures provide context for the KPIs, helping to understand them better. They are also used in the calculation of KPIs.
-
-**Supporting Measures include:**
-
-- **YTD Profit:** `TOTALYTD([Total Profit], Calendar_Table[Date])`  
+- **YTD Profit(Profit):** `TOTALYTD([Total Profit], Calendar_Table[Date])`  
   Aggregates profit for the year to date.
-- **YTD Revenue:** `TOTALYTD([Total Revenue], Calendar_Table[Date])`  
+- **YTD Revenue(Revenue):** `TOTALYTD([Total Revenue], Calendar_Table[Date])`  
   Aggregates revenue for the year to date.
-- **YTD Units Sold:** `TOTALYTD([Total Units Sold], Calendar_Table[Date])`  
+- **YTD Units Sold(Units Sold):** `TOTALYTD([Total Units Sold], Calendar_Table[Date])`  
   Aggregates units sold for the year to date.
 - **Prev YTD Profit:** `CALCULATE([YTD Profit], SAMEPERIODLASTYEAR(Calendar_Table[Date]))`  
   Captures profit for the previous year to date.
@@ -188,9 +159,33 @@ Supporting measures provide context for the KPIs, helping to understand them bet
   Captures revenue for the previous year to date.
 - **Prev YTD Units Sold:** `CALCULATE([YTD Units Sold], SAMEPERIODLASTYEAR(Calendar_Table[Date]))`  
   Captures units sold for the previous year to date.
+- **YoY Revenue Growth:**  
+  `DIVIDE([YTD Revenue] - [Prev YTD Revenue], [Prev YTD Revenue])`  
+  Tracks yearly percentage growth in revenue.
+- **YoY Profit Growth:**  
+  `DIVIDE([YTD Profit] - [Prev YTD Profit], [Prev YTD Profit])`  
+  Shows the yearly percentage growth in profit.
+- **YoY Growth in Units Sold:**  
+ `DIVIDE([YTD Units Sold] - [Prev YTD Units Sold], [Prev YTD Units Sold])`  
+  Highlights year-over-year growth in product sales.
 - **Revenue Target:** `8500000`  
   Sets the benchmark for revenue performance.
+- **Progress Towards Target (YTD):**  
+  `DIVIDE([YTD Revenue], [Revenue Target])`  
+  Measures how much of the revenue target has been achieved so far.
+- **Progress Towards Target (PYTD):**  
+  `DIVIDE([Prev YTD Revenue], [Revenue Target])`  
+  Evaluates progress toward last year’s target for comparison.
+  
+In addition to the KPIs displayed in the card visuals, the following measures were calculated and utilized for a deeper understanding of the business performance:
 
+- **Total Profit:** `SUM(Sales[Profit])`  
+  Indicates the overall profitability of sales.
+- **Total Revenue:** `SUM(Sales[Total_Price])`  
+  Reflects the total income generated from sales.
+- **Total Units Sold:** `SUM(Sales[Units Sold])`  
+  Represents the total quantity of products sold.
+  
 ### Power BI Dashboard
 
 The Power BI dashboard was designed to provide a detailed view of Maven Toys' sales performance. It highlights the KPIs, trends, and other visuals, offering insights into the business problems and helping to guide decision-making.
