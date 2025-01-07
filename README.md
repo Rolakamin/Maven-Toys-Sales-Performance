@@ -199,3 +199,20 @@ The Power BI dashboard was designed to provide a detailed view of Maven Toys' sa
 - Prev YTD values (for Profit, Revenue, and Units Sold) provide the comparison for the same period in the previous year.
 - YoY Growth for each of the key metrics gives percentage changes over the year.
 - Progress Towards Target compares actual performance against the set target.
+
+### Key Definitions
+The following terms are essential for understanding the metrics used in the analysis. The definitions are provided in the context of the dataset, which spans from January 1, 2022, to September 30, 2023.
+
+1. **YoY (Year-over-Year)**: Represents the percentage change in the aggregated performance of a metric for the year-to-date (YTD) in the current year compared to the previous year-to-date (PYTD).
+   - Example: YoY Revenue Growth compares total revenue from January 1, 2023, to September 30, 2023, with total revenue from January 1, 2022, to September 30, 2022, and calculates the percentage increase or 
+              decrease.
+2. **YTD (Year-to-Date)**: Refers to the cumulative performance of a metric from the start of the current year up until a specific date.  
+   - Example: Total revenue from January 1, 2023, to September 30, 2023.  
+3. **PYTD (Previous Year-to-Date)**: Represents the cumulative performance from the start of the previous year up until the same date as YTD.  
+   - Example: Total revenue from January 1, 2022, to September 30, 2022.  
+4. **SPLY (Same Period Last Year)**: Compares the performance of a specific period in the current year to the same period in the previous year, commonly used for months or quarters.  
+   - Example: Comparing Q3 2023 (July to September) to Q3 2022.
+
+
+
+
