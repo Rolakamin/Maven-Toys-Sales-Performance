@@ -193,3 +193,9 @@ The Power BI dashboard was designed to provide a detailed view of Maven Toys' sa
 
 
 [Explore the Dashboard here](#)
+
+### Key Notes:
+- YTD Revenue, YTD Profit, and YTD Units Sold represent the metrics on the card visuals as Revenue, Profit, and Units Sold respectively.
+- Prev YTD values (for Profit, Revenue, and Units Sold) provide the comparison for the same period in the previous year.
+- YoY Growth for each of the key metrics gives percentage changes over the year.
+- Progress Towards Target compares actual performance against the set target.
