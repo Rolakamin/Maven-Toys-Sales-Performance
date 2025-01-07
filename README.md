@@ -189,7 +189,7 @@ In addition to the KPIs displayed in the card visuals, the following measures we
 
 The Power BI dashboard was designed to provide a detailed view of Maven Toys' sales performance. It highlights the KPIs, trends, and other visuals, offering insights into the business problems and helping to guide decision-making.
 
-![Power BI Dashboard](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/Maven%20Toys%20Sales%20Performance%20dashboard.png)  
+![Power BI Dashboard](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/Maven%20Toys%20Dashboard.png)  
 
 
 [Explore the Dashboard here](#)
