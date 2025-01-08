@@ -213,6 +213,43 @@ The following terms are essential for understanding the metrics used in the anal
 4. **SPLY (Same Period Last Year)**: Compares the performance of a specific period in the current year to the same period in the previous year, commonly used for months or quarters.  
 - Example: Comparing Q3 2023 (July to September) to Q3 2022.
 
+## Findings and Insights
+
+**Year-over-Year (YoY) Growth Analysis**
+Between January 1, 2023, and September 30, 2023, Maven Toys generated approximately $6.96 million in revenue, reflecting a 30.9% YoY growth compared to the $5.32 million made during the same period in 2022. Similarly, profit increased by 16%, rising from approximately $1.57 million in 2022 to $1.82 million in 2023. The total units sold also experienced significant growth, increasing by 40.8% from 384,415 units in 2022 to 541,073 units in 2023. Overall, between January 2022 and September 2023, Maven Toys generated $14.44 million in revenue, $4.01 million in profit, and sold 1.09 million units in total.
+
+**Progress Toward Revenue Targets**
+Maven Toys set a revenue target of $8.5 million for both 2022 and 2023. By the end of September 2023, progress to this target was 81.9% (approximately $6.96 million). This represents a notable improvement compared to the same period in 2022, when progress to target stood at 62.6%. By the end of December 2022, Maven Toys achieved 88.03% of the annual target (approximately $7.48 million), but the target was not met. Given the holiday season from October to December, revenue is expected to increase significantly, suggesting that the 2023 target is more likely to be met.
+
+**Product Category Profitability**
+For the Year-to-Date (YTD) period of 2023, the Toys category drove the highest profit, contributing $257.77k, followed closely by Electronics, which generated $233.25k. However, profitability varied by store location. For example:
+- At Airport locations, Games ($30.32k) and Toys ($25.25k) were the top profit contributors.
+- At Commercial locations, Electronics ($68.02k) and Toys ($51.63k) performed best.
+- At Downtown locations, Toys ($150.02k) and Arts and Crafts ($148.83k) led in profitability
+- At Residential locations, Arts and Crafts ($32.26k) and Toys ($30.89k) topped the chart.
+While Toys and Electronics consistently contributed the highest profits overall, this trend was not uniform across all locations.
+
+**Store Locations: Revenue and Profit Performance**
+Downtown locations generated the highest revenue ($3,992k or 57% of the total) and the highest profit ($1,030.82k) during the YTD period. This was followed by Commercial locations, which brought in $1,552k in revenue (22%) and $408.97k in profit. Airport locations contributed the least, with $639k in revenue and $173.04k in profit, followed by Residential locations with $778k in revenue (11%) and $211.42k in profit.
+
+**Seasonal Trends and Patterns**
+In 2022, the month of December generated the highest revenue ($877,204), followed by April ($681,073). These months align with periods of high tourist activity and major festive seasons in Mexico, such as Christmas and Easter, which encourage gift-giving and drive higher sales.
+
+In 2023, March emerged as the month with the highest revenue ($883,516). March is a busy tourist season in Mexico, which likely contributed to increased sales during this time. However, in 2022, despite being part of the tourist season, March did not perform as strongly, generating $589,485 in revenue. This was lower than other months like April, May, and June, suggesting that additional factors such as promotional campaigns, product availability, or economic conditions may have influenced sales during this period.
+
+A recurring dip in revenue was observed in August for both years. In August 2022, revenue stood at $489,423, while in August 2023, it increased to $660,877. This dip is likely tied to the school calendar in Mexico, which runs from late August to early July. Parents tend to prioritize spending on back-to-school supplies and clothing during this period, leading to reduced expenditure on toys.
+
+In terms of total units sold, December 2022 recorded the highest sales (66,031 units), followed by November (51,185 units). This surge in sales can be attributed to holiday shopping activities. On the other hand, February and August recorded the lowest total units sold in 2022, with February at 36,935 units and August at 39,927 units.
+
+In 2023, March saw the highest total units sold (69,336 units), reflecting a peak in demand early in the year. This was followed by July, which recorded 63,614 units sold. However, the lowest total units sold occurred in August (51,193 units), followed by September (52,152 units) and February (54,581 units).
+
+Both years showed a noticeable dip in February, despite an improvement in units sold year-over-year. The consistent dip in August across both years highlights a recurring trend of reduced demand during this period.
+
+**Top Performing Products and Stores**
+
+The top five products by profit were Colourbuds, Lego Bricks, Action Figures, Barrel O’Slimes, and Deck of Cards.
+
+In terms of store performance, the top-performing cities by revenue were Ciudad de Mexico 2 ($260.93k), Guadalajara ($214.70k), Toluca 1 ($207.90k), Ciudad de Mexico ($204.54k), and Monterrey 2 ($190.81k). Similarly, the top-performing cities by profit were Ciudad de Mexico ($210.32k), Guadalajara, Monterrey, Hermosillo, and Guanajuato. In contrast, the cities with the lowest profits were Merida ($26.6k), La Paz, Cuernavaca, Aguascalientes, and Oaxaca.
 
 
 
