@@ -216,12 +216,15 @@ The following terms are essential for understanding the metrics used in the anal
 ## Findings and Insights
 
 **Year-over-Year (YoY) Growth Analysis**
+
 Between January 1, 2023, and September 30, 2023, Maven Toys generated approximately $6.96 million in revenue, reflecting a 30.9% YoY growth compared to the $5.32 million made during the same period in 2022. Similarly, profit increased by 16%, rising from approximately $1.57 million in 2022 to $1.82 million in 2023. The total units sold also experienced significant growth, increasing by 40.8% from 384,415 units in 2022 to 541,073 units in 2023. Overall, between January 2022 and September 2023, Maven Toys generated $14.44 million in revenue, $4.01 million in profit, and sold 1.09 million units in total.
 
 **Progress Toward Revenue Targets**
+
 Maven Toys set a revenue target of $8.5 million for both 2022 and 2023. By the end of September 2023, progress to this target was 81.9% (approximately $6.96 million). This represents a notable improvement compared to the same period in 2022, when progress to target stood at 62.6%. By the end of December 2022, Maven Toys achieved 88.03% of the annual target (approximately $7.48 million), but the target was not met. Given the holiday season from October to December, revenue is expected to increase significantly, suggesting that the 2023 target is more likely to be met.
 
 **Product Category Profitability**
+
 For the Year-to-Date (YTD) period of 2023, the Toys category drove the highest profit, contributing $257.77k, followed closely by Electronics, which generated $233.25k. However, profitability varied by store location. For example:
 - At Airport locations, Games ($30.32k) and Toys ($25.25k) were the top profit contributors.
 - At Commercial locations, Electronics ($68.02k) and Toys ($51.63k) performed best.
@@ -230,9 +233,11 @@ For the Year-to-Date (YTD) period of 2023, the Toys category drove the highest p
 While Toys and Electronics consistently contributed the highest profits overall, this trend was not uniform across all locations.
 
 **Store Locations: Revenue and Profit Performance**
+
 Downtown locations generated the highest revenue ($3,992k or 57% of the total) and the highest profit ($1,030.82k) during the YTD period. This was followed by Commercial locations, which brought in $1,552k in revenue (22%) and $408.97k in profit. Airport locations contributed the least, with $639k in revenue and $173.04k in profit, followed by Residential locations with $778k in revenue (11%) and $211.42k in profit.
 
 **Seasonal Trends and Patterns**
+
 In 2022, the month of December generated the highest revenue ($877,204), followed by April ($681,073). These months align with periods of high tourist activity and major festive seasons in Mexico, such as Christmas and Easter, which encourage gift-giving and drive higher sales.
 
 In 2023, March emerged as the month with the highest revenue ($883,516). March is a busy tourist season in Mexico, which likely contributed to increased sales during this time. However, in 2022, despite being part of the tourist season, March did not perform as strongly, generating $589,485 in revenue. This was lower than other months like April, May, and June, suggesting that additional factors such as promotional campaigns, product availability, or economic conditions may have influenced sales during this period.
