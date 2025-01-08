@@ -252,7 +252,7 @@ Both years showed a noticeable dip in February, despite an improvement in units 
 
 **Top Performing Products and Stores**
 
-he analysis revealed that the top five products by profit were Colourbuds, Lego Bricks, Action Figures, Barrel O’Slimes, and Deck of Cards, indicating strong consumer demand and profitability for these items.
+The analysis revealed that the top five products by profit were Colourbuds, Lego Bricks, Action Figures, Barrel O’Slimes, and Deck of Cards, indicating strong consumer demand and profitability for these items.
 
 In terms of store performance, Ciudad de Mexico 2, Guadalajara, Toluca 1, Ciudad de Mexico, and Monterrey 2 emerged as the top-performing cities by revenue, while the highest profits were recorded in Ciudad de Mexico, Guadalajara, Monterrey, Hermosillo, and Guanajuato. Conversely, cities like Merida, La Paz, Cuernavaca, Aguascalientes, and Oaxaca reported the lowest profits.
 
