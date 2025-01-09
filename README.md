@@ -298,7 +298,7 @@ Tailor inventory to location-specific preferences:For example,
   
 8. **Expand E-Commerce Reach**
 
-Invest in online sales channels to serve regions with lower profitability, minimizing the need for physical store investments while maintaining market presence.
+- Invest in online sales channels to serve regions with lower profitability, minimizing the need for physical store investments while maintaining market presence.
 
 By following these strategies, Maven Toys can effectively target high-potential locations, optimize resources, and achieve sustainable growth.
 
