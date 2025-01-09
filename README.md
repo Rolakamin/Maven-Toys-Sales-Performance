@@ -257,3 +257,48 @@ The analysis revealed that the top five products by profit were Colourbuds, Lego
 In terms of store performance, Ciudad de Mexico 2, Guadalajara, Toluca 1, Ciudad de Mexico, and Monterrey 2 emerged as the top-performing cities by revenue, while the highest profits were recorded in Ciudad de Mexico, Guadalajara, Monterrey, Hermosillo, and Guanajuato. Conversely, cities like Merida, La Paz, Cuernavaca, Aguascalientes, and Oaxaca reported the lowest profits.
 
 While the exact reasons for low profits in some cities remain unclear, potential contributing factors could include economic conditions, population size, or consumer preferences. However, the lack of demographic and socioeconomic data limits a deeper understanding of these trends.
+
+## RECOMMENDATIONS
+
+1. **Focus on High-Performing Areas**
+
+- Prioritize opening stores in downtown/urban centers of new cities, as they consistently yield the highest revenue and profit due to strong demand and spending power.
+- Target commercial hubs with heavy foot traffic, similar to the successful performance in current commercial locations.
+  
+2. **Address Low-Performing Cities**
+
+- Investigate underperforming cities like Merida, La Paz, Cuernavaca, Aguascalientes, and Oaxaca to identify causes such as low population density, income levels, or weak marketing.
+- If market potential remains insufficient, consider consolidating or closing operations in these cities.
+  
+3. **Capitalize on Seasonal Trends**
+
+- Increase marketing and promotional efforts ahead of high-revenue months like December, March, and April.
+- Stock high-demand products like Colourbuds, Lego Bricks, and Action Figures well in advance of festive and tourist seasons.
+- Open stores in tourist-heavy cities and cultural hubs to boost seasonal revenue.
+  
+4 **Optimize Product Offerings by Location**
+
+Tailor inventory to location-specific preferences:For example,
+
+- **Airport locations**: Focus on games and toys targeting travelers.
+- **Residential areas**: Prioritize arts and crafts and toys to cater to families and children.
+  
+5. **Leverage Best-Selling Products**
+
+- Ensure consistent availability of best-sellers (e.g., Colourbuds, Lego Bricks, Action Figures) across all locations.
+- Implement promotions to stabilize sales during February and August, which historically show dips in revenue.
+  
+6. **Test New Markets Strategically**
+
+- Pilot ‘pop-up stores,’ ‘play areas,’ or online sales campaigns in potential new markets to gauge demand before committing to permanent locations.
+  
+7. **Leverage Data for Expansion**
+
+- Use demographic, economic, and consumer spending data to identify untapped cities that share characteristics with high-performing locations like Ciudad de Mexico and Guadalajara.
+  
+8. **Expand E-Commerce Reach**
+
+Invest in online sales channels to serve regions with lower profitability, minimizing the need for physical store investments while maintaining market presence.
+
+By following these strategies, Maven Toys can effectively target high-potential locations, optimize resources, and achieve sustainable growth.
+
