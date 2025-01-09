@@ -311,7 +311,7 @@ By following these strategies, Maven Toys can effectively target high-potential 
 
 ## REFERENCES
 
-**How to create CALENDAR TABLE using DAX**: https://youtu.be/deWYpDUZrfY?si=ygkXCUAiEjtHEMkL
+**How to create CALENDAR TABLE using DAX**: https://youtu.be/b23bk6TcXak?si=B-ALBOUX1K9F2Yrh
 
-**Data Modelling** :
+**Data Modelling in PowerBI** :https://youtu.be/4ePNrdxWtY0?si=VvPHqf1ZVBKjfQo_
 
