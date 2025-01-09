@@ -307,4 +307,11 @@ By following these strategies, Maven Toys can effectively target high-potential 
 - **Data Availability and Quality**: Some data points, such as demographic and socioeconomic information for underperforming locations, were not available, limiting deeper insights into consumer behavior.
 - **Short Timeframe**: The analysis covered only two years, which might not capture longer-term trends or anomalies.
 - **Subjectivity in Interpretation**: Insights and recommendations are based on trends observed in the provided data and may not fully align with on-ground realities.
+- **Seasonal Bias**: Months with high revenue, such as December and March, might mask other factors influencing performance during slower periods.
+
+## REFERENCES
+
+**How to create CALENDAR TABLE using DAX**: https://youtu.be/deWYpDUZrfY?si=ygkXCUAiEjtHEMkL
+
+**Data Modelling** :
 
