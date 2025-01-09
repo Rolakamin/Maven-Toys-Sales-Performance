@@ -276,7 +276,7 @@ While the exact reasons for low profits in some cities remain unclear, potential
 - Stock high-demand products like Colourbuds, Lego Bricks, and Action Figures well in advance of festive and tourist seasons.
 - Open stores in tourist-heavy cities and cultural hubs to boost seasonal revenue.
   
-4 **Optimize Product Offerings by Location**
+4. **Optimize Product Offerings by Location**
 
 Tailor inventory to location-specific preferences:For example,
 
@@ -301,4 +301,10 @@ Tailor inventory to location-specific preferences:For example,
 - Invest in online sales channels to serve regions with lower profitability, minimizing the need for physical store investments while maintaining market presence.
 
 By following these strategies, Maven Toys can effectively target high-potential locations, optimize resources, and achieve sustainable growth.
+
+## CHALLENGES AND LIMITATIONS
+
+- **Data Availability and Quality**: Some data points, such as demographic and socioeconomic information for underperforming locations, were not available, limiting deeper insights into consumer behavior.
+- **Short Timeframe**: The analysis covered only two years, which might not capture longer-term trends or anomalies.
+- **Subjectivity in Interpretation**: Insights and recommendations are based on trends observed in the provided data and may not fully align with on-ground realities.
 
