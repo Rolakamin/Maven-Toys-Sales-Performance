@@ -3,6 +3,21 @@
 ![](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/toys%20shop.png)
 ---
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+- [Business Objectives](#business-objectives)
+- [Business Problems](#business-problems)
+- [Dataset Overview](#dataset-overview)
+- [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+- [Data Modelling](#data-modelling)
+- [Data Analysis and Visualization](#data-analysis-and-visualization)
+- [Findings and Insights](#findings-and-insights)
+- [Recommendations](#recommendations)
+- [Challenges and Limitations](#challenges-and-limitations)
+- [References](#references)
+
 ## Introduction
 
 **Maven Toys**, a fictional chain of toy stores in Mexico, is planning to expand its business by opening new stores. To support this effort, I was hired as a Business Intelligence (BI) consultant to analyze their sales and inventory data, uncover patterns and trends, and provide actionable insights for informed decision-making.
@@ -258,7 +273,7 @@ In terms of store performance, Ciudad de Mexico 2, Guadalajara, Toluca 1, Ciudad
 
 While the exact reasons for low profits in some cities remain unclear, potential contributing factors could include economic conditions, population size, or consumer preferences. However, the lack of demographic and socioeconomic data limits a deeper understanding of these trends.
 
-## RECOMMENDATIONS
+## Recommendations
 
 1. **Focus on High-Performing Areas**
 
@@ -302,14 +317,14 @@ Tailor inventory to location-specific preferences:For example,
 
 By following these strategies, Maven Toys can effectively target high-potential locations, optimize resources, and achieve sustainable growth.
 
-## CHALLENGES AND LIMITATIONS
+## Challenges and Limitations
 
 - **Data Availability and Quality**: Some data points, such as demographic and socioeconomic information for underperforming locations, were not available, limiting deeper insights into consumer behavior.
 - **Short Timeframe**: The analysis covered only two years, which might not capture longer-term trends or anomalies.
 - **Subjectivity in Interpretation**: Insights and recommendations are based on trends observed in the provided data and may not fully align with on-ground realities.
 - **Seasonal Bias**: Months with high revenue, such as December and March, might mask other factors influencing performance during slower periods.
 
-## REFERENCES
+## References
 
 **How to create a CALENDAR TABLE in PowerBI using DAX**:
 - https://youtu.be/b23bk6TcXak?si=B-ALBOUX1K9F2Yrh
