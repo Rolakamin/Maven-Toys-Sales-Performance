@@ -207,7 +207,7 @@ The Power BI dashboard was designed to provide a detailed view of Maven Toys' sa
 ![Power BI Dashboard](https://github.com/Rolakamin/Maven-Toys-Sales-Performance/blob/main/Maven%20Toys%20Dashboard.png)  
 
 
-[Explore the Dashboard here](#)
+[Explore the Dashboard here](https://app.powerbi.com/groups/me/reports/52fa72de-5e8b-4b14-84fb-35dc417d94f6/9c84383388c00a108bee?experience=power-bi)
 
 ### Key Notes:
 - YTD Revenue, YTD Profit, and YTD Units Sold represent the metrics on the card visuals as Revenue, Profit, and Units Sold respectively.
