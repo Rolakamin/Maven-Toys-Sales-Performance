@@ -63,10 +63,16 @@ The dataset provided for this analysis consists of six tables in CSV format:
 6.	**Data Dictionary**: Provides detailed descriptions for each field in the dataset, ensuring clarity and proper usage.
 
 ### Data Sources
+This dataset is sourced from the [Maven Analytics](https://www.mavenanalytics.io) website, which provides datasets for analytics and visualization projects.
+
 The dataset includes the following files:
+
 •	inventory.csv (1,593 rows, 3 columns)
+
 •	products.csv (35 rows, 5 columns)
+
 •	sales.csv (829,262 rows, 5 columns)
+
 •	stores.csv (50 rows, 5 columns)
 
 Although the calendar.csv file was part of the dataset, I opted to generate a new calendar table in Power BI using the **CALENDAR** function to:
